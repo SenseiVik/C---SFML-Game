@@ -1,0 +1,86 @@
+﻿  Animation.cpp
+  AnimationManager.cpp
+  Boss.cpp
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\boss.cpp(171): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  BossShoots.cpp
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\bossshoots.cpp(10): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\bossshoots.cpp(11): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\bossshoots.cpp(86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Coin.cpp
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\coin.cpp(51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Enemy.cpp
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\enemy.cpp(124): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameObject.cpp
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\gameobject.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\gameobject.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  MainMenu.cpp
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(408): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(411): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(414): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(417): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(421): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(422): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(423): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(427): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(480): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(558): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(564): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(570): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(576): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(582): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(588): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(594): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(790): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(792): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\mainmenu.cpp(849): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\player.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\player.cpp(10): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\player.cpp(11): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\player.cpp(12): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\player.cpp(156): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Shoot.cpp
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\shoot.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\shoot.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\shoot.cpp(107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Stone.cpp
+c:\users\admin\desktop\vitya sasi3\budlo_warrior\stone.cpp(103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Budlo_Warrior.vcxproj -> C:\Users\Admin\Desktop\vitya sasi3\Debug\Budlo_Warrior.exe
